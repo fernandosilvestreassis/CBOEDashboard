@@ -1,0 +1,7 @@
+datetime
+numpy
+pandas
+requests
+streamlit
+streamlit-aggrid
+yfinance
